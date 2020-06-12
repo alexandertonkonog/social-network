@@ -1,0 +1,55 @@
+.messageItem {
+	display: flex;
+	margin: auto;
+	width: 100%;
+	padding: 15px 20px;
+	border-bottom: 1px solid #F0F0ED;
+	overflow: hidden;
+	height: 80px;
+}
+.messageItem:hover {
+	background-color: #F0F0ED;
+	border: 1px solid white;
+}
+.linkImg {
+	width: 50px;
+	height: 50px;
+	border-radius: 7px;
+	margin-right: 20px;
+}
+.textZone {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+}
+.time {
+	color: grey;
+}
+.not {
+	color: grey;
+	text-align: center;
+	padding: 20px 0;
+}
+.nameZone {
+	width: 80%;
+}
+.nameZone h3 {
+	margin-bottom: 10px;
+	font-size: 15px;
+	color: #33363C;
+}
+.nameZone p {
+	color: grey;
+}
+.new {
+	background-color: #A3B9C1;
+}
+.new:hover {
+	background-color: #A3B9C1;
+}
+p.adresant {
+	color: #2F9BC1;
+}
+.youSpan {
+	font-weight: bold;
+}

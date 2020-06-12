@@ -1,0 +1,166 @@
+{
+  "list":[
+    {
+      "name":"Alexander Tonkonog",
+      "avatar":"https://www.gravatar.com/avatar/cdcfcdf8989e433a230201c171b6eb08?s=58&r=g&d=mm",
+      "friends":[2],
+      "id":1,
+      "active":"26.02.20 20:52",
+      "tag":["Popular"],
+      "type": "user",
+      "follow": [1,2],
+      "data": {
+        "birthday": "29.08.1997",
+        "city": "Krasnodar",
+        "sex": "male",
+        "education": "KubSU",
+        "family": [],
+        "language": ["Russian", "English"]
+      }
+    },
+    {
+      "name":"Alexander Loparev",
+      "avatar":"https://www.gravatar.com/avatar/7d1a34e008d775cfe0d8054f3fcd2f01?s=58&r=g&d=mm",
+      "friends":[1],
+      "id":2,
+      "active":"26.02.20 20:52",
+      "tag":["Active"],
+      "type": "user",
+      "follow": [1,3],
+      "data": {
+        "birthday": "13.07.1997",
+        "city": "Krasnodar",
+        "sex": "male",
+        "education": "KubSAU",
+        "family": [],
+        "language": ["Russian"]
+      }
+    },
+    {
+      "name":"Alexei Drugoi",
+      "avatar":"https://www.gravatar.com/avatar/c396eea2d46e71dbd8cfd292d01f86f4?s=58&r=g&d=mm",
+      "friends":[228],
+      "id":1488,
+      "active":"26.02.20 20:52",
+      "tag":["Newest"],
+      "type": "user",
+      "follow": [1,4],
+      "data": {
+        "birthday": "22.04.2000",
+        "city": "Moscow",
+        "sex": "male",
+        "education": "MSU",
+        "family": [],
+        "language": ["Russian", "Chinese"]
+      }
+    },
+    {
+      "name":"Fedor Krug",
+      "avatar":"https://www.gravatar.com/avatar/adc22c98c2a6d2bbbb2966b469965c3a?s=58&r=g&d=mm",
+      "friends":[1488, 322, 323],
+      "id":228,
+      "active":"26.02.20 20:52",
+      "tag":["Newest"],
+      "type": "user",
+      "follow": [1,2],
+      "data": {
+        "birthday": "03.12.1996",
+        "city": "Samara",
+        "sex": "male",
+        "education": "SSU",
+        "family": [],
+        "language": ["Russian"]
+      }
+    },
+    {
+      "name":"Alina Qudro",
+      "avatar":"https://www.gravatar.com/avatar/cdcfcdf8989e433a230201c171b6eb08?s=58&r=g&d=mm",
+      "friends":[228],
+      "id":322,
+      "active":"26.02.20 20:52",
+      "tag":["Newest"],
+      "type": "user",
+      "follow": [1,3],
+      "data": {
+        "birthday": "01.12.1997",
+        "city": "Krasnodar",
+        "sex": "male",
+        "education": "KubSU",
+        "family": [],
+        "language": ["Russian"]
+      }
+    },
+    {
+      "name":"Timur Vasiliev",
+      "avatar":"https://www.gravatar.com/avatar/adc22c98c2a6d2bbbb2966b469965c3a?s=58&r=g&d=mm",
+      "friends":[228],
+      "id":323,
+      "active":"26.02.20 20:52",
+      "tag":["Newest", "Active"],
+      "type": "user",
+      "follow": [],
+      "data": {
+        "birthday": "",
+        "city": "",
+        "sex": "",
+        "education": "",
+        "family": [],
+        "language": []
+      }
+    }
+  ],
+  "groups":[
+    {
+      "id":1,
+      "name":"The tourist",
+      "avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbXpP45n7HYYuRpTgAGzQd2Y4PCMkT1vJpMGJ4CS-bSbe5Py3m",
+      "friends":[228, 1488, 322, 1, 2],
+      "tag":["Newest"],
+      "type": "group",
+      "data": {
+        "creator": 1,
+        "type": ["journey", "adventure"],
+        "creationTime": "01.01.2020"
+      }
+    },
+    {
+      "id":2,
+      "name":"The Social Network",
+      "avatar":"https://images.ua.prom.st/1254262788_w640_h640_fotooboi-3d-priroda.jpg",
+      "friends":[1, 228],
+      "tag":["Alphabetical"],
+      "type": "group",
+      "data": {
+        "creator": 1,
+        "type": ["technology", "programming"],
+        "creationTime": "01.01.2020"
+      }
+    },
+    {
+      "id":3,
+      "name":"MDK",
+      "avatar":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTakVRkxfneuQVkRNuNFiTrvF8UrH6ccOlq47Vc5XE1C6aXBM3S",
+      "friends":[322, 2],
+      "tag":["Popular"],
+      "type": "group",
+      "data": {
+        "creator": 1,
+        "type": ["humor", "video"],
+        "creationTime": "01.01.2020"
+      }
+    },
+    {
+      "id":4,
+      "name":"4ch inc",
+      "avatar":"https://cs8.pikabu.ru/post_img/big/2016/06/14/11/146593191916227532.jpg",
+      "friends":[1488],
+      "tag":["Active"],
+      "type": "group",
+      "data": {
+        "creator": 1,
+        "type": ["humor", "video", "connection"],
+        "creationTime": "01.01.2020"
+      }
+    }
+  ]
+}

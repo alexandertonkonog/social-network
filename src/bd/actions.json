@@ -1,0 +1,62 @@
+[
+  {
+    "id":1,
+    "date":"26.02.20 20:52",
+    "actionCode":3,
+    "user":{
+      "id":1,
+      "name":"Alexander Tonkonog",
+      "img":"https://www.gravatar.com/avatar/cdcfcdf8989e433a230201c171b6eb08?s=58&r=g&d=mm"
+    },
+    "postText":"Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away. (Antoine de Saint Exupery)",
+    "group":{
+      "id":1,
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSbXpP45n7HYYuRpTgAGzQd2Y4PCMkT1vJpMGJ4CS-bSbe5Py3m",
+      "name": "The Tourist"
+    }
+  },
+  {
+    "id":2,
+    "date":"26.02.20 20:52",
+    "actionCode":1,
+    "user":{
+      "id":2,
+      "name":"Alexander Loparev",
+      "img":"https://www.gravatar.com/avatar/7d1a34e008d775cfe0d8054f3fcd2f01?s=58&r=g&d=mm"
+    },
+    "postText":"Victory goes to the player who makes the next-to-last mistake. (Chessmaster Savielly Grigorievitch Tartakower)"
+  },
+  {
+    "id":3,
+    "date":"26.02.20 20:52",
+    "actionCode":2,
+    "user":{
+      "id":2,
+      "name":"Alexander Loparev",
+      "img":"https://www.gravatar.com/avatar/7d1a34e008d775cfe0d8054f3fcd2f01?s=58&r=g&d=mm"
+    },
+    "followedUser":{"type": "user", "id":1,"name":"Alexander Tonkonog", "img": "https://www.gravatar.com/avatar/cdcfcdf8989e433a230201c171b6eb08?s=58&r=g&d=mm"}
+  },
+  {
+    "id":6,
+    "date":"26.02.20 20:52",
+    "actionCode":2,
+    "user":{
+      "id":1,
+      "name":"Alexander Tonkonog",
+      "img":"https://www.gravatar.com/avatar/cdcfcdf8989e433a230201c171b6eb08?s=58&r=g&d=mm"
+    },
+    "followedUser":{"type": "group", "id":2,"name":"The Social Network", "img": "https://images.ua.prom.st/1254262788_w640_h640_fotooboi-3d-priroda.jpg"}
+  },
+  {
+    "id":7,
+    "date":"26.02.20 20:52",
+    "actionCode":2,
+    "user":{
+      "id":2,
+      "name":"Alexander Loparev",
+      "img":"https://www.gravatar.com/avatar/7d1a34e008d775cfe0d8054f3fcd2f01?s=58&r=g&d=mm"
+    },
+    "followedUser":{"type": "group", "id":3,"name":"MDK", "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTakVRkxfneuQVkRNuNFiTrvF8UrH6ccOlq47Vc5XE1C6aXBM3S"}
+  }
+]

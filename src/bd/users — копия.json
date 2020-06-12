@@ -1,0 +1,110 @@
+[
+    {
+      "name":"Alexander Tonkonog",
+      "avatar":"https://www.gravatar.com/avatar/cdcfcdf8989e433a230201c171b6eb08?s=58&r=g&d=mm",
+      "friends":[2],
+      "id":1,
+      "active":"26.02.20 20:52",
+      "tag":["Popular"],
+      "type": "user",
+      "follow": [1,2],
+      "data": {
+        "birthday": "29.08.1997",
+        "city": "Krasnodar",
+        "sex": "male",
+        "education": "KubSU",
+        "family": null,
+        "language": ["Russian", "English"]
+      }
+    },
+    {
+      "name":"Alexander Loparev",
+      "avatar":"https://www.gravatar.com/avatar/7d1a34e008d775cfe0d8054f3fcd2f01?s=58&r=g&d=mm",
+      "friends":[1],
+      "id":2,
+      "active":"26.02.20 20:52",
+      "tag":["Active"],
+      "type": "user",
+      "follow": [1,3],
+      "data": {
+        "birthday": "13.07.1997",
+        "city": "Krasnodar",
+        "sex": "male",
+        "education": "KubSAU",
+        "family": null,
+        "language": ["Russian"]
+      }
+    },
+    {
+      "name":"Alexei Drugoi",
+      "avatar":"https://www.gravatar.com/avatar/c396eea2d46e71dbd8cfd292d01f86f4?s=58&r=g&d=mm",
+      "friends":[228],
+      "id":1488,
+      "active":"26.02.20 20:52",
+      "tag":["Newest"],
+      "type": "user",
+      "follow": [1,4],
+      "data": {
+        "birthday": "22.04.2000",
+        "city": "Moscow",
+        "sex": "male",
+        "education": "MSU",
+        "family": null,
+        "language": ["Russian", "Chinese"]
+      }
+    },
+    {
+      "name":"Fedor Krug",
+      "avatar":"https://www.gravatar.com/avatar/adc22c98c2a6d2bbbb2966b469965c3a?s=58&r=g&d=mm",
+      "friends":[1488, 322, 323],
+      "id":228,
+      "active":"26.02.20 20:52",
+      "tag":["Newest"],
+      "type": "user",
+      "follow": [1,2],
+      "data": {
+        "birthday": "03.12.1996",
+        "city": "Samara",
+        "sex": "male",
+        "education": "SSU",
+        "family": null,
+        "language": ["Russian"]
+      }
+    },
+    {
+      "name":"Alina Qudro",
+      "avatar":"https://www.gravatar.com/avatar/cdcfcdf8989e433a230201c171b6eb08?s=58&r=g&d=mm",
+      "friends":[228],
+      "id":322,
+      "active":"26.02.20 20:52",
+      "tag":["Newest"],
+      "type": "user",
+      "follow": [1,3],
+      "data": {
+        "birthday": "01.12.1997",
+        "city": "Krasnodar",
+        "sex": "male",
+        "education": "KubSU",
+        "family": null,
+        "language": ["Russian"]
+      }
+    },
+    {
+      "name":"Timur Vasiliev",
+      "avatar":"https://www.gravatar.com/avatar/adc22c98c2a6d2bbbb2966b469965c3a?s=58&r=g&d=mm",
+      "friends":[228],
+      "id":323,
+      "active":"26.02.20 20:52",
+      "tag":["Newest", "Active"],
+      "type": "user",
+      "follow": null,
+      "data": {
+        "birthday": null,
+        "city": null,
+        "sex": null,
+        "education": null,
+        "family": null,
+        "language": null
+      }
+    }
+  ]

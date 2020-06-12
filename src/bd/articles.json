@@ -1,0 +1,83 @@
+[
+    {
+      "id":1,
+      "name":"Uniquely pontificate standards compliant",
+      "autor":{"id":34,"name":"Alexander Seleznev", "img": "https://i.pinimg.com/736x/b3/de/c2/b3dec29cee543a5b7af7271c1e545272.jpg"},
+      "img":"https://buddy.ghostpool.com/wp-content/uploads/photodune-5644267-autumn-rain-s-100x75.jpg",
+      "text":"Dramatically pursue innovative services before out-of-the-box metrics. Professionally seize web-enabled services before distinctive internal or “organic” sources. Dynamically deliver client-based intellectual capital rather than inexpensive ideas. Energistically myocardinate intermandated methodologies without sustainable manufactured products. Intrinsicly orchestrate one-to-one interfaces whereas timely content.",
+      "date": "26.02.20 20:52",
+      "tag": ["New", "Art"],
+      "type": "article"
+    },
+    {
+      "id":2,
+      "name":"Intrinsicly parallel task cross-platform",
+      "autor":{"id":24,"name":"Artem Dubina", "img": "https://www.cdiscount.com/pdt2/0/6/4/1/300x300/auc0039897185064/rw/masque-ouvrier-de-chantier-lego-r-enfants.jpg"},
+      "img":"https://buddy.ghostpool.com/wp-content/uploads/photodune-5644267-autumn-rain-s-100x75.jpg",
+      "text":"Dramatically pursue innovative services before out-of-the-box metrics. Professionally seize web-enabled services before distinctive internal or “organic” sources. Dynamically deliver client-based intellectual capital rather than inexpensive ideas. Energistically myocardinate intermandated methodologies without sustainable manufactured products. Intrinsicly orchestrate one-to-one interfaces whereas timely content.",
+      "date": "26.02.20 20:52",
+      "tag": ["New", "Art"],
+      "type": "article"
+    },
+    {
+      "id":3,
+      "name":"Quickly expedite holistic e-tailers",
+      "autor":{"id":56,"name":"Andrei Orlovsky", "img": "https://legopard.ru/image/cache/catalog/1lego/7new/4pack/005/lego-reshayushhij-boj-cheloveka-pauka-protiv-skorpiona-foto%288%29-300x300.jpg"},
+      "img":"https://buddy.ghostpool.com/wp-content/uploads/photodune-5644267-autumn-rain-s-100x75.jpg",
+      "text":"Dramatically pursue innovative services before out-of-the-box metrics. Professionally seize web-enabled services before distinctive internal or “organic” sources. Dynamically deliver client-based intellectual capital rather than inexpensive ideas. Energistically myocardinate intermandated methodologies without sustainable manufactured products. Intrinsicly orchestrate one-to-one interfaces whereas timely content.",
+      "date": "26.02.20 20:52",
+      "tag": ["New", "Art"],
+      "type": "article"
+    },
+    {
+      "id":1,
+      "name":"My first post for all long guys",
+      "autor":{"id":1,"name":"Alexander Tonkonog", "img": "https://www.gravatar.com/avatar/cdcfcdf8989e433a230201c171b6eb08?s=58&r=g&d=mm"},
+      "img":"https://buddy.ghostpool.com/wp-content/uploads/photodune-5644267-autumn-rain-s-100x75.jpg",
+      "text":"Dramatically pursue innovative services before out-of-the-box metrics. Professionally seize web-enabled services before distinctive internal or “organic” sources. Dynamically deliver client-based intellectual capital rather than inexpensive ideas. Energistically myocardinate intermandated methodologies without sustainable manufactured products. Intrinsicly orchestrate one-to-one interfaces whereas timely content.",
+      "date": "26.02.20 20:52",
+      "tag": ["New"],
+      "type": "article",
+      "comments": []
+    },
+    {
+      "id":5,
+      "name":"My second post for all long guys",
+      "autor":{"id":1,"name":"Alexander Tonkonog", "img": "https://www.gravatar.com/avatar/cdcfcdf8989e433a230201c171b6eb08?s=58&r=g&d=mm"},
+      "img":"https://buddy.ghostpool.com/wp-content/uploads/photodune-2473587-abstract-tree3-s-100x75.jpg",
+      "text":"Dramatically pursue innovative services before out-of-the-box metrics. Professionally seize web-enabled services before distinctive internal or “organic” sources. Dynamically deliver client-based intellectual capital rather than inexpensive ideas. Energistically myocardinate intermandated methodologies without sustainable manufactured products. Intrinsicly orchestrate one-to-one interfaces whereas timely content.",
+      "date": "26.02.20 20:52",
+      "tag": ["New", "Art"],
+      "type": "article"
+    },
+    {
+      "id":6,
+      "name":"My third post for all long guys",
+      "autor":{"id":1,"name":"Alexander Tonkonog", "img": "https://www.gravatar.com/avatar/cdcfcdf8989e433a230201c171b6eb08?s=58&r=g&d=mm"},
+      "img":"https://buddy.ghostpool.com/wp-content/uploads/photodune-2445190-hand-office2-s-100x75.jpg",
+      "text":"Dramatically pursue innovative services before out-of-the-box metrics. Professionally seize web-enabled services before distinctive internal or “organic” sources. Dynamically deliver client-based intellectual capital rather than inexpensive ideas. Energistically myocardinate intermandated methodologies without sustainable manufactured products. Intrinsicly orchestrate one-to-one interfaces whereas timely content.",
+      "date": "26.02.20 20:52",
+      "tag": ["New", "Art"],
+      "type": "article"
+    },
+    {
+      "id":7,
+      "name":"New document",
+      "autor":{"id":2,"name":"Alexander Loparev", "img": "https://www.gravatar.com/avatar/7d1a34e008d775cfe0d8054f3fcd2f01?s=58&r=g&d=mm"},
+      "img":"https://buddy.ghostpool.com/wp-content/uploads/photodune-2473587-abstract-tree3-s-100x75.jpg",
+      "text":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. ",
+      "date": "26.02.20 20:52",
+      "tag": ["New", "Art"],
+      "type": "article"
+    },
+    {
+      "id":8,
+      "name":"Lorem ipsum dolor sit amet",
+      "autor":{"id":2,"name":"Alexander Loparev", "img": "https://www.gravatar.com/avatar/7d1a34e008d775cfe0d8054f3fcd2f01?s=58&r=g&d=mm"},
+      "img":"https://buddy.ghostpool.com/wp-content/uploads/photodune-2445190-hand-office2-s-100x75.jpg",
+      "text":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. ",
+      "date": "26.02.20 20:52",
+      "tag": ["New", "Art"],
+      "type": "article"
+    }
+  ]

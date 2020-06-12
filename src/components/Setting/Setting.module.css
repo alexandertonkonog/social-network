@@ -1,0 +1,97 @@
+.settingLinks {
+	display: flex;
+	list-style: none;
+	align-items: flex-start;
+}
+.settingLinks {
+	padding: 20px 15px;
+	border-bottom: 1px solid #F0F0ED;
+}
+.setting form {
+	padding: 20px 15px;
+}
+.inputLabel {
+	padding-right: 40px;
+	text-transform: capitalize;
+}
+.inputPlace .input {
+}
+.table {
+	line-height: 50px;
+}
+.array {
+	margin-top: 5px;
+	width: 300px;
+	display: flex;
+	flex-wrap: wrap;
+	line-height: 30px;
+}
+
+.array .icon {
+	border: none;
+	font-size: 20px;
+	font-weight: bold;
+	background-color: white;
+	margin-right: 7px;
+	cursor: pointer;
+	margin-top: 0;
+	color: #33363C;
+}
+.array .icon:hover {
+	color: red;
+}
+.inputField {
+	display: flex;
+}
+.inputField button {
+	margin: 0 0 0 20px;
+}
+.error {
+	background-color: red;
+	text-align: center;
+	padding: 10px 0;
+	width: 100%;
+	margin:20px auto;
+	color: white;
+	font-weight: bold;
+	border-radius: 7px;
+}
+.info {
+	border: 1px solid #65A0C6;
+	text-align: center;
+	padding: 10px 0;
+	width: 100%;
+	margin:20px auto;
+	color: #65A0C6;
+	background-color: #E4ECF1;
+	font-weight: bold;
+	border-radius: 7px;
+}
+.select{
+	list-style: none;
+	margin: 0;
+	padding:1px;
+	height: 30px;
+	overflow: hidden;
+	border-radius: 7px;
+	background-color: #F0F0ED;
+	color: grey;
+	cursor: pointer;
+	width: 300px;
+	line-height: 30px;
+}
+.select li {
+	padding: 1px 10px;
+}
+.userSelect:hover {
+	background-color: #F0F0ED;
+}
+.select.active {
+	height: 100%;
+	border: 1px solid #BFBFBC;
+	background-color: white;
+}
+.titleSelect {
+	display: flex;
+	justify-content: space-between;
+}

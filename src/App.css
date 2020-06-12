@@ -1,0 +1,70 @@
+
+body {
+	background-color: #F0F0ED;
+	width: 100%;
+	font-size: 14px;
+	color: #33363C;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+img {
+  image-rendering: crisp-edges;
+  object-fit: cover;
+  object-position: center;
+}
+.mainContent {
+	width: 1200px;
+	margin: auto;
+}
+.fullPage {
+	width: 100%;
+}
+a {
+	text-decoration: none;
+	color: #33363C;
+}
+a:hover {
+	color: #2F9BC1;
+}
+button:focus {
+	outline: none;
+}
+.inside-common-item {
+	width: 250px;
+	margin: auto;
+	border-radius: 7px;
+}
+
+.middleModule {
+	width: 620px;
+	margin: 0 auto;
+}
+.middleModule > div {
+	background-color: #fff;
+	border-radius: 7px;
+	width: 100%;
+	margin-bottom: 20px;
+}
+.wrapBlock {
+	background-color: white;
+	border-radius: 7px;
+	padding: 15px;
+	width: 600px;
+	margin-bottom: 20px;
+	height: auto;
+
+}
+.middleModule > div.loginSign {
+	margin-bottom: 200px;
+}
+.preloaderZone {
+	width: 300px;
+	padding: 50px 0;
+	background-color: white;
+	border-radius: 7px;
+	margin: 200px auto;
+}

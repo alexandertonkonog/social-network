@@ -1,0 +1,9 @@
+.sidebar {
+	width: 270px;
+}
+.sidebar > div {
+	background-color: white;
+	border-radius: 7px;
+	padding: 15px;
+	margin-bottom: 20px;
+}

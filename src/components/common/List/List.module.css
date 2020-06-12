@@ -1,0 +1,58 @@
+.wrapper {
+	padding: 15px;
+}
+.wrapper form {
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+	border-bottom: 1px solid #F0F0ED;
+}
+.wrapper input {
+	width: 500px;
+}
+.user {
+	display: flex;
+	justify-content: space-between;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #F0F0ED;
+	margin-bottom: 10px;
+}
+.user:last-child {
+	margin-bottom: 0;
+	border: none;
+}
+.userInfo {
+	display: flex;
+}
+.img {
+	width: 50px;
+	height: 50px;
+	border-radius: 7px;
+}
+.userInfoText {
+	margin-left: 20px;
+}
+.wrapper .userName {
+	color: #33363C;
+	font-size: 14px;
+	display: block;
+	font-weight: bold;
+}
+.wrapper .userName:hover {
+	color: #2F9BC1;
+}
+.userFriends {
+	display: inline-block;
+	width: auto;
+	margin-top: 7px;
+	font-size: 12px;
+	color: #65A0C6;
+	background-color: #E4ECF1;
+	padding: 4px;
+	border-radius: 3px;
+}
+.btnFollow {
+	background-color: #2F9BC1;
+}
+.btnFollow:hover {
+	background-color: #0B779D;
+}

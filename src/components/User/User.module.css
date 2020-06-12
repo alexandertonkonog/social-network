@@ -1,0 +1,144 @@
+.imgArea {
+	width: 580px;
+	margin: auto;
+	padding-top: 20px;
+	padding-bottom: 40px;
+}
+.form form {
+	padding: 20px;
+	border-bottom: 1px solid #F0F0ED;
+}
+.imgAreaPhone {
+	background-color: #C5C5C5;
+	height: 200px;
+}
+.imgAreaPhoneInfo {
+	display: flex;
+	position: relative;
+	top: 80px;
+	left: 30px;
+}
+
+.iapAvatar {
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border: 2px solid white;
+	margin-right: 50px;
+}
+.iapName {
+	color: white;
+	margin-top: 10px;
+	text-shadow: black 0 0 2px;
+}
+p.iapTimeActive {
+	background-color: #77AF12;
+	color: white;
+}
+p.iapTimeActive:hover {
+	background-color: #467E00;
+}
+.infoBlock {
+	display: flex;
+	list-style: none;
+	align-items: flex-start;
+}
+.latestElems {
+    width: 580px;
+    margin: auto;
+}
+.latestElem  {
+    padding: 20px 0;
+    border-bottom: 1px solid #F0F0ED;
+}
+.latestElem > div {
+    display: flex;
+	align-items: flex-start;
+	width: 580px;
+}
+.latestImg {
+    margin-right: 20px;
+    width: 50px;
+    height: 50px;
+    border-radius: 7px;
+}
+.latestInfo {
+    color: grey;
+    font-size: 13px;
+}
+.lowText {
+    color: grey;
+    font-size: 13px;
+}
+.latestInfo a {
+	font-size: 14px;
+    font-weight: bold;
+}
+.mainText {
+    margin-bottom: 8px;
+}
+.latestInfo p {
+    line-height: 18px;
+}
+.friendImg {
+	width: 25px;
+	height: 25px;
+	margin: 0 10px
+}
+.friendName {
+	font-weight: bold;
+}
+.friend {
+	color: grey;
+	width: 100%;
+}
+.date {
+	color: #2F9BC1;
+	text-align: right;
+}
+.infoWrite {
+	justify-content: space-between;
+	display: flex;
+	align-items: center;
+	border-top: 1px solid #F0F0ED;
+	border-bottom: 1px solid #F0F0ED;
+	padding: 20px 20px;
+}
+
+.nameUserAction {
+	margin-right: 10px;
+}
+.profileSec, .friendSec {
+	padding: 20px;
+}
+.profileSec td {
+	padding: 7px 30px 7px 0;
+}
+.profileSec td:nth-child(odd) {
+	color: grey;
+	text-transform: capitalize;
+}
+.not {
+	color: #33363C;
+	text-align: center;
+}
+.btnZone {
+	padding: 0;
+}
+.btnZone button:not(:last-child){
+	margin-right: 10px;
+}
+.btnZone a:not(:last-child){
+	margin-right: 10px;
+}
+.changeImgSec {
+	padding: 20px;
+}
+.info {
+	border: 1px solid #65A0C6;
+	padding: 7px;
+	color: #65A0C6;
+	background-color: #E4ECF1;
+	border-radius: 7px;
+	display: inline-block;
+}

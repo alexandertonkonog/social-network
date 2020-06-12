@@ -1,0 +1,82 @@
+.messageList {
+	padding:20px 15px;
+}
+.messageContainer textarea {
+	margin-bottom: 20px;
+}
+.not {
+	color: grey;
+	text-align: center;
+	padding: 20px 0;
+}
+.messageContainer form {
+	padding: 15px;
+	border-top: 1px solid #F0F0ED;
+}
+.message {
+	display: flex;
+	margin-bottom: 10px;
+}
+.titlePage {
+	display: flex;
+	border-bottom: 1px solid #F0F0ED;
+	padding: 5px;
+	width: 100%;
+	justify-content: space-between;
+	color: #33363C;
+	align-items: flex-start;
+}
+.titlePageEmpty {
+	border-bottom: 1px solid #F0F0ED;
+	padding: 5px;
+	width: 100%;
+	color: #33363C;
+}
+.back{
+	color: #33363C;
+	padding: 15px;
+	border-radius: 7px;
+	margin-top: 5px;
+}
+.back:hover {
+	background-color: #F0F0ED;
+}
+.nameFriend {
+	text-align: center;
+	margin-top: 15px;
+	color: #33363C;
+}
+.friendImg {
+	width: 50px;
+	height: 50px;
+	border-radius: 7px;
+	margin-right: 20px;
+}
+.linkImg {
+	width: 50px;
+	height: 50px;
+	border-radius: 7px;
+	margin-right: 20px;
+}
+.textZone {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+}
+.time {
+	margin-left: 20px;
+	font-weight: normal;
+	font-size: 12px;
+	color: #A9A9A9;
+}
+.nameZone h3 a {
+	font-size: 14px;
+	color: #33363C;
+}
+.nameZone h3 a:hover {
+	color: #2F9BC1;
+}
+.messageText {
+	margin-top: 10px;
+	color: grey;
+}

@@ -1,0 +1,145 @@
+.input {
+	padding: 10px 0;
+	height: 45px;
+	padding-left: 10px;
+	border-radius: 7px;
+	border: none;
+	background-color: #F0F0ED;
+	color: grey;
+	cursor: text;
+}
+.simpleInput {
+	height: 30px;
+}
+.dataForm .input {
+	width: 300px;
+	height: 30px;
+}
+.input:focus {
+	border: 1px solid #BFBFBC;
+	padding: 9px 0;
+	padding-left: 9px;
+	outline: none;
+	background-color: white;
+}
+.loginSign input {
+	width: 100%;
+	margin-top: 20px;
+}
+.form {
+	margin-top: 20px;
+}
+.button {
+	width: 100%;
+	height: 45px;
+	border-radius: 7px;
+	border: none;
+	color: white;
+	font-weight: 900;
+}
+.textForm {
+	display: flex;
+	align-items: flex-start;
+	justify-content: space-between;
+}
+.textForm button {
+	margin: 0;
+}
+.formText {
+	width: 100%;
+}
+.formAside {
+	display: flex;
+	align-items: flex-start;
+	justify-content: space-between;
+}
+.formAside input {
+	width: 150px;
+	height: 37px;
+}
+
+.loginSign button {
+	margin-top: 20px;
+}
+.error {
+	display: inline-block;
+	background-color: red;
+	border-radius: 7px;
+	text-align: left;
+	padding: 5px 10px;
+	margin:auto;
+	margin-top: 20px;
+	color: white;
+	font-weight: bold;
+}
+.formAside button {
+	margin: 0;
+	font-size: 13px;
+}
+.textarea {
+	width: 500px;
+	border-radius: 7px;
+	padding: 10px 0 10px 10px;
+	cursor: text;
+	resize: none;
+	border: none;
+    background-color: #F0F0ED;
+    color: grey;
+}
+.simpleTextarea {
+
+}
+.textarea:focus {
+	border: 1px solid #BFBFBC;
+	background-color: white;
+	padding: 9px 0 9px 9px;
+	outline: none;
+}
+.fileForm {
+	display: flex;
+	align-items: flex-start;
+}
+.fileUpload input[type="file"]{
+	display: none;/* скрываем input file */
+}
+/* задаем стили кнопки выбора файла*/
+.fileUpload {
+	position: relative;
+	overflow: hidden;
+	width: 250px;
+	height: 30px;
+	background: #F0F0ED;
+	border-radius: 7px;
+}
+
+.fileUpload:hover {
+	background: white;
+	border: 1px solid #BFBFBC;
+}
+
+/* Растягиваем label на всю область блока .file-upload */
+
+.fileUpload label {
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	cursor: pointer;
+	color: grey;
+	font-size: 13px;
+}
+
+/* стиль текста на кнопке*/
+
+.fileUpload span {
+	padding-left: 10px;
+	line-height: 30px;
+}
+.fileInput {
+	margin-right: 20px;
+}
+.nameFile {
+	margin-top: 10px;
+}

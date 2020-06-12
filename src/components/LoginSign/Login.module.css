@@ -1,0 +1,22 @@
+.error {
+	background-color: red;
+	text-align: center;
+	padding: 15px;
+	width: 100%;
+	margin:20px auto;
+	color: white;
+	font-weight: bold;
+	border-radius: 7px;
+}
+.orAction {
+	margin-top: 20px;
+	font-weight: normal;
+}
+.orLink {
+	font-weight: bold;
+	text-decoration: underline;
+	color: #33363C;
+}
+.orLink:hover {
+	color: #2F9BC1;
+}
